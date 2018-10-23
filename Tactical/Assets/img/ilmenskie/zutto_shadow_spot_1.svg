@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="FlashAICB" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="894px" height="297px" viewBox="0 0 894 297" style="enable-background:new 0 0 894 297;" xml:space="preserve">
+<symbol  id="FlashAICB_x2F_Layer_123_x2F__x3C_Path_x3E_">
+	<g id="Layer_1_3_">
+	</g>
+</symbol>
+<symbol  id="FlashAICB_x2F_Layer_123_x2F__x3C_Path_x3E__x5F_1" viewBox="0 -297 894 297">
+	<g id="Layer_1_2_">
+		
+			<radialGradient id="SVGID_1_" cx="447" cy="-148.5" r="446.975" gradientTransform="matrix(1 0 0 -0.3322 0 -197.8364)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.0118" style="stop-color:#000000;stop-opacity:0.3765"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</radialGradient>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);" d="M894-148.5c0-20.133-11.717-39.4-35.15-57.8
+			c-22.6-17.767-54.534-33.5-95.8-47.2c-41.233-13.7-88.583-24.317-142.05-31.85C565.633-293.117,507.633-297,447-297
+			s-118.633,3.883-174,11.65c-53.5,7.533-100.867,18.15-142.1,31.85s-73.167,29.433-95.8,47.2C11.7-187.9,0-168.633,0-148.5
+			s11.7,39.4,35.1,57.8c22.633,17.767,54.566,33.5,95.8,47.2S219.5-19.183,273-11.65C328.367-3.883,386.367,0,447,0
+			s118.633-3.883,174-11.65c53.467-7.533,100.816-18.15,142.05-31.85c41.267-13.7,73.2-29.433,95.8-47.2
+			C882.283-109.1,894-128.367,894-148.5z"/>
+	</g>
+</symbol>
+<use xlink:href="#FlashAICB_x2F_Layer_123_x2F__x3C_Path_x3E__x5F_1"  width="894" height="297" y="-297" transform="matrix(1 0 0 -1 0 0)" style="overflow:visible;opacity:0.6797;enable-background:new    ;"/>
+<use xlink:href="#FlashAICB_x2F_Layer_123_x2F__x3C_Path_x3E_"  width="-32766" height="-32766" x="16383" y="16383" transform="matrix(1 0 0 -1 378 6)" style="overflow:visible;opacity:0.6797;enable-background:new    ;"/>
+</svg>

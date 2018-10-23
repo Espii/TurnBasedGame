@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px"
+	 height="150px" viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<symbol  id="Glint" viewBox="1.05 -23.8 20.55 22.55">
+	<g id="Layer_1_3_">
+		
+			<use xlink:href="#Symbol_1"  width="20.55" height="22.55" y="-22.55" transform="matrix(1 0 0 1 1.0498 -1.25)" style="overflow:visible;opacity:0.2305;"/>
+	</g>
+</symbol>
+<symbol  id="Symbol_1" viewBox="0 -22.55 20.55 22.55">
+	<g id="Layer_1_2_">
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M8.9,0c0.6-7.333,4.483-11,11.65-11
+			c-6.9-0.2-10.466-4.05-10.7-11.55C9.55-15.783,6.267-12.1,0-11.5C5.333-11.067,8.3-7.233,8.9,0z"/>
+	</g>
+</symbol>
+<g id="Layer_6">
+</g>
+<g id="Layer_4">
+	
+		<use xlink:href="#Glint"  width="20.55" height="22.55" x="1.05" y="-23.8" transform="matrix(0 -0.5088 -0.5088 0 99.25 52.6499)" style="overflow:visible;"/>
+</g>
+</svg>

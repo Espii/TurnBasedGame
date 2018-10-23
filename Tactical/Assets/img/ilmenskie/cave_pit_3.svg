@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="37.45px" height="23.8px" viewBox="0 0 37.45 23.8" style="enable-background:new 0 0 37.45 23.8;" xml:space="preserve">
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="-150.6328" cy="155.502" r="138.9367" gradientTransform="matrix(0.0012 -0.0956 -0.2065 0.0191 47.0017 -4.3529)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.3725" style="stop-color:#202326"/>
+		<stop  offset="0.3843" style="stop-color:#212327"/>
+		<stop  offset="0.6706" style="stop-color:#362945"/>
+		<stop  offset="0.7647" style="stop-color:#495A55"/>
+		<stop  offset="0.8706" style="stop-color:#5A8764"/>
+		<stop  offset="0.949" style="stop-color:#65A36D"/>
+		<stop  offset="0.9961" style="stop-color:#69AD70"/>
+	</radialGradient>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);" d="M30.409,5.477c0.156,0.829-0.266,1.613-1.268,2.353
+		c-0.959,0.714-2.348,1.312-4.165,1.793c-1.844,0.488-3.911,0.799-6.204,0.933c-3.711,0.217-7.118,0.123-10.221-0.282
+		C5.051,9.814,2.656,9.03,1.368,7.92c-0.861-0.74-1.315-1.484-1.363-2.233c-0.042-0.698,0.271-1.373,0.938-2.023
+		c1.294-1.269,3.571-2.248,6.83-2.937c3.313-0.698,6.734-0.899,10.264-0.603c3.935,0.332,7.224,1.245,9.867,2.74
+		C29.405,3.713,30.24,4.583,30.409,5.477z"/>
+	
+		<radialGradient id="SVGID_2_" cx="-239.6772" cy="208.7266" r="95.663" gradientTransform="matrix(3.249806e-004 -0.0957 -0.1505 -0.0135 51.3639 4.6216)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.3725" style="stop-color:#202326"/>
+		<stop  offset="0.3843" style="stop-color:#212327"/>
+		<stop  offset="0.6706" style="stop-color:#362945"/>
+		<stop  offset="0.7647" style="stop-color:#495A55"/>
+		<stop  offset="0.8706" style="stop-color:#5A8764"/>
+		<stop  offset="0.949" style="stop-color:#65A36D"/>
+		<stop  offset="0.9961" style="stop-color:#69AD70"/>
+	</radialGradient>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);" d="M15.841,17.123c1.776-0.447,3.654-0.582,5.634-0.407
+		c2.175,0.194,4.044,0.74,5.605,1.636c0.687,0.393,1.146,0.824,1.378,1.297c0.217,0.439,0.225,0.886,0.024,1.339
+		c-0.195,0.434-0.566,0.835-1.115,1.205c-0.552,0.373-1.228,0.678-2.027,0.914c-1.036,0.303-2.229,0.508-3.578,0.616
+		c-1.301,0.105-2.592,0.108-3.874,0.01c-1.307-0.102-2.438-0.298-3.391-0.588c-1.024-0.31-1.736-0.697-2.138-1.162
+		c-0.899-1.04-0.971-2.019-0.215-2.938C12.835,18.207,14.068,17.566,15.841,17.123z"/>
+	
+		<radialGradient id="SVGID_3_" cx="-166.1367" cy="338.502" r="50.5" gradientTransform="matrix(9.471025e-007 -0.0957 -0.2192 2.367756e-005 106.5821 -0.0119)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.3725" style="stop-color:#0D110F"/>
+		<stop  offset="0.498" style="stop-color:#1F1C27"/>
+		<stop  offset="0.6706" style="stop-color:#362945"/>
+		<stop  offset="0.7647" style="stop-color:#495A55"/>
+		<stop  offset="0.8706" style="stop-color:#5A8764"/>
+		<stop  offset="0.949" style="stop-color:#65A36D"/>
+		<stop  offset="0.9961" style="stop-color:#69AD70"/>
+	</radialGradient>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);" d="M36.713,11.632c0.36,0.239,0.59,0.52,0.689,0.842
+		c0.099,0.325,0.048,0.646-0.153,0.962c-0.472,0.742-1.548,1.218-3.229,1.425c-1.438,0.182-2.793,0.108-4.065-0.22
+		c-1.489-0.39-2.382-1.048-2.679-1.976c-0.149-0.469,0.095-0.901,0.732-1.296c0.605-0.37,1.43-0.633,2.473-0.789
+		c1.087-0.159,2.165-0.161,3.233-0.005C34.907,10.75,35.906,11.103,36.713,11.632z"/>
+</g>
+</svg>
