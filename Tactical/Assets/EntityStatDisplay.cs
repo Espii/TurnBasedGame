@@ -2,31 +2,40 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class EntityStatDisplay : MonoBehaviour {
     Entity target = null;
-    public Text HealthText;
-    public Text AttackText;
-    public Image HealthBackground;
     public Image AttackBackground;
+    public Image HealthBackground;
+   
+    public TextMeshProUGUI AttackText;
+    public TextMeshProUGUI HealthText;
     public RectTransform myRectTransform;
     public Color FriendlyColor = Color.blue;
     public Color HostileColor = Color.red;
+
     public void SetTarget(Entity target)
     {
         this.target = target;
-        Color BackgroundColor = Color.white;
+        Color Color = Color.white;
         if (target.PlayerID == Global.PlayerID)
         {
-            BackgroundColor = FriendlyColor;
+            Color = FriendlyColor;
         }
         else
         {
-            BackgroundColor = HostileColor;
+            Color = HostileColor;
         }
-        HealthBackground.color = BackgroundColor;
-        AttackBackground.color = BackgroundColor;
+
+        AttackBackground.color = Color;
+        HealthBackground.color = Color;
+        //AttackText.faceColor = Color;
+        //HealthText.faceColor = Color;
     }
+
+
+
 
     public void UpdateStatDisplay()
     {
@@ -34,10 +43,39 @@ public class EntityStatDisplay : MonoBehaviour {
         {
             return;
         }
-        myRectTransform.sizeDelta=GetSize();
+
+        Vector2 NewSize = GetSize();
+        Vector2 ActualSize = myRectTransform.sizeDelta * myRectTransform.localScale;
+        if (NewSize != ActualSize)
+        {
+            ScaleDisplay(NewSize);
+        }
         myRectTransform.position= Global.MainCamera.WorldToScreenPoint(target.transform.position);
         HealthText.text = target.GetHealth().ToString();
         AttackText.text = target.Attack.ToString();
+    }
+
+    Vector3 V3Divide(Vector3 v1, Vector3 v2)
+    {
+        return new Vector3(v1.x / v2.x, v1.y / v2.y, v1.z / v2.z);
+    }
+    void ScaleDisplay(Vector2 NewSize)
+    {
+        transform.localScale = NewSize / myRectTransform.sizeDelta;
+        /*
+        AttackText.transform.localScale *= ratio;
+        HealthText.transform.localScale *= ratio;
+        //ScaleText(AttackText, ratio);
+        //ScaleText(HealthText, ratio);
+        myRectTransform.sizeDelta = NewSize;
+        */
+    }
+
+
+    void ScaleText(TextMeshProUGUI text, float ratio)
+    {
+        text.margin *= ratio;
+        text.fontSize *= ratio;
     }
 
     public Vector2 GetSize()

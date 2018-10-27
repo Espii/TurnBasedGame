@@ -144,9 +144,11 @@
     <Compile Include="Assets\UI\HealthDisplay\HealthDisplay.cs" />
     <Compile Include="Assets\UI\MessageBox.cs" />
     <Compile Include="Assets\UI\PlayerResourceManager.cs" />
+    <Compile Include="Assets\UI\ResourceDisplay.cs" />
     <Compile Include="Assets\UI\SelectedUnitPanel.cs" />
     <Compile Include="Assets\UI\Slot.cs" />
     <Compile Include="Assets\UI\SlotManager.cs" />
+    <Compile Include="Assets\UI\TimerDisplay.cs" />
     <Compile Include="Assets\UIEntityDisplayManager.cs" />
     <Compile Include="Assets\UIGameManager.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
